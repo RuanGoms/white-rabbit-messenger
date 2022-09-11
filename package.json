@@ -1,0 +1,23 @@
+{
+  "name": "white-rabbit-messenger",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon ./src/main/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RuanGoms/white-rabbit-messenger.git"
+  },
+  "keywords": [
+    "Socket.io", "Messenger", "Real Time", "Chat"
+  ],
+  "author": "Ruan Gomes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RuanGoms/white-rabbit-messenger/issues"
+  },
+  "homepage": "https://github.com/RuanGoms/white-rabbit-messenger#readme"
+}
